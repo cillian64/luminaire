@@ -703,7 +703,7 @@
   )
 
   (no_connect (at 90.17 64.77) (uuid cfc2019b-44cc-40d1-8456-ae995b4df022))
-  (no_connect (at 148.59 91.44) (uuid cfc2019b-44cc-40d1-8456-ae995b4df022))
+  (no_connect (at 148.59 91.44) (uuid cfc2019b-44cc-40d1-8456-ae995b4df023))
 
   (wire (pts (xy 153.67 93.98) (xy 153.67 86.36))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1204,6 +1204,9 @@
     (property "Datasheet" "https://www.farnell.com/datasheets/2604289.pdf" (id 3) (at 127.635 89.535 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Farnell" "2978768" (id 4) (at 143.51 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "5" (uuid be240c6a-fd9d-40a7-a511-c19461abb5aa))
     (pin "6" (uuid 8fbe8f66-5e2e-4461-aef6-c23d5d18f3d8))
     (pin "7" (uuid 7279b2b8-4ffb-4a62-b20f-627a823fad02))
@@ -1221,7 +1224,7 @@
     (property "Datasheet" "https://www.farnell.com/datasheets/2604289.pdf" (id 3) (at 69.215 62.865 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Farnell" "2854760" (id 4) (at 85.09 67.31 0)
+    (property "Farnell" "2978768" (id 4) (at 85.09 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4be6e931-431b-4551-bf32-48115848146b))
