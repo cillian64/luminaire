@@ -942,6 +942,15 @@
     (uuid fd0d7c9f-276a-4eba-9b37-555efaa54276)
   )
 
+  (text "MEASURED\nI_LO = 5.6mA\nI_HI = 10.7mA" (at 195.58 123.19 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 007ce7ca-d88f-4f46-b827-37d84a0dc2b4)
+  )
+  (text "MEASURED\nI_LO = 51mA\nI_HI = 95mA\nCell voltage 1.4V\nEst life: 26-49 hrs"
+    (at 50.8 81.28 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c5c02c8a-5346-4dd7-9340-f013cb0e2b1a)
+  )
   (text "LED COLUMNS ARE\nALTERNATIVES\nFIT ONLY ONE COLUMN" (at 207.01 66.04 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fba0e732-a834-4509-bf85-8ea07a69b668)
